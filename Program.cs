@@ -9,7 +9,7 @@ WriteLine("Введите размер массива");
 int n = int.Parse(ReadLine());
 string[] arr = new string[n];
 string[] newarr = new string[n];
-WriteLine("Вводите элементы массива массива нажимая Enter");
+WriteLine("Введите значения массива нажимая Enter");
 for (int i = 0; i < n; i++)
 {
     arr[i] = ReadLine(); // заполнение массива
