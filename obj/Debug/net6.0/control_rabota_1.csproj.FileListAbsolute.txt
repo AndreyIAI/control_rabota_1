@@ -1,0 +1,15 @@
+C:\Users\autok\OneDrive\Desktop\control_rabota_1\bin\Debug\net6.0\control_rabota_1.exe
+C:\Users\autok\OneDrive\Desktop\control_rabota_1\bin\Debug\net6.0\control_rabota_1.deps.json
+C:\Users\autok\OneDrive\Desktop\control_rabota_1\bin\Debug\net6.0\control_rabota_1.runtimeconfig.json
+C:\Users\autok\OneDrive\Desktop\control_rabota_1\bin\Debug\net6.0\control_rabota_1.dll
+C:\Users\autok\OneDrive\Desktop\control_rabota_1\bin\Debug\net6.0\control_rabota_1.pdb
+C:\Users\autok\OneDrive\Desktop\control_rabota_1\obj\Debug\net6.0\control_rabota_1.csproj.AssemblyReference.cache
+C:\Users\autok\OneDrive\Desktop\control_rabota_1\obj\Debug\net6.0\control_rabota_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autok\OneDrive\Desktop\control_rabota_1\obj\Debug\net6.0\control_rabota_1.AssemblyInfoInputs.cache
+C:\Users\autok\OneDrive\Desktop\control_rabota_1\obj\Debug\net6.0\control_rabota_1.AssemblyInfo.cs
+C:\Users\autok\OneDrive\Desktop\control_rabota_1\obj\Debug\net6.0\control_rabota_1.csproj.CoreCompileInputs.cache
+C:\Users\autok\OneDrive\Desktop\control_rabota_1\obj\Debug\net6.0\control_rabota_1.dll
+C:\Users\autok\OneDrive\Desktop\control_rabota_1\obj\Debug\net6.0\refint\control_rabota_1.dll
+C:\Users\autok\OneDrive\Desktop\control_rabota_1\obj\Debug\net6.0\control_rabota_1.pdb
+C:\Users\autok\OneDrive\Desktop\control_rabota_1\obj\Debug\net6.0\control_rabota_1.genruntimeconfig.cache
+C:\Users\autok\OneDrive\Desktop\control_rabota_1\obj\Debug\net6.0\ref\control_rabota_1.dll
