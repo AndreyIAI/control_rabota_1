@@ -27,3 +27,13 @@ void SecondArrayWithIF(string[] arr, string[] newarr)
     }
 }
 
+void PrintArray(string[] arr)
+{
+    for (int i = 0; i < arr.Length; i++)
+    {
+        Console.Write($"{arr[i]} ");
+    }
+    Console.WriteLine();
+}
+SecondArrayWithIF(arr, newarr);
+PrintArray(newarr);
